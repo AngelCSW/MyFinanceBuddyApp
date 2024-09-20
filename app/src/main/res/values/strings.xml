@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinanceBuddy</string>
+    <string name="update_transaction">Update Transaction</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="update_saving">Update Saving Transaction</string>
+    <string name="add_saving">Add Saving Transaction</string>
+    <string name="update_travel">Update Travel Transaction</string>
+    <string name="add_travel">Add Travel Transaction</string>
+</resources>
